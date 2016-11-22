@@ -56,3 +56,4 @@ I really appreciate all the feedback I can get.
 - [Whitepaper The Release Pipeline Model](http://aka.ms/thereleasepipelinemodelpdf)
 - [Building a Release Pipeline with Team Foundation Server 2012](https://msdn.microsoft.com/en-us/library/dn449957.aspx)
 - [Separating Configuration and Environment Data](https://msdn.microsoft.com/en-us/powershell/dsc/configData)
+- [Testing DSC Configurations with Pester and AppVeyor](http://ramblingcookiemonster.github.io/Testing-DSC-with-Pester-and-AppVeyor/)
