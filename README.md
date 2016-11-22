@@ -35,6 +35,7 @@ The following highlevel DSC Deployment steps need to be implemented within the R
 
 # Release Pipeline Module
 ![Image](https://github.com/stefanstranger/psdscreleasepipeline/blob/master/Pictures/ReleasePipelineModel.png)
+
 \* from Whitepaper The Release Pipeline Model.
 
 
@@ -47,7 +48,7 @@ You can find a first design overview [here](https://github.com/stefanstranger/ps
 
 Can you please use the [repo issues](https://github.com/stefanstranger/psdscreleasepipeline/issues) for feedback.
 
-A really appreciated all the feedback I can get.
+I really appreciate all the feedback I can get.
 
 /Stefan
 
