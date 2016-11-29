@@ -52,6 +52,9 @@ I really appreciate all the feedback I can get.
 
 /Stefan
 
+# Discussion
+[![Join the chat at https://gitter.im/psdscreleasepipeline/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/psdscreleasepipeline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # References
 - [Whitepaper The Release Pipeline Model](http://aka.ms/thereleasepipelinemodelpdf)
 - [Building a Release Pipeline with Team Foundation Server 2012](https://msdn.microsoft.com/en-us/library/dn449957.aspx)
